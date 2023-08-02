@@ -2,6 +2,7 @@
 
 Uni is a command-line application that helps you convert natural language text into Unix commands effortlessly. It utilizes the power of OpenAI's GPT-3.5 language model to interpret the input text and generate the corresponding Unix commands.
 
+### Note: Make sure you verify the unix command before executing. ie. Directly do not execute the command along with the --exec flag if the command contains any delete operations
 ## Features
 
 - Convert plain English text into valid Unix commands.
